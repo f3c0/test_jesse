@@ -1,6 +1,6 @@
 [{<<"jesse">>,
   {git,"https://github.com/f3c0/jesse.git",
-       {ref,"56d41d9c174b452d736272beca08933d28f19cea"}},
+       {ref,"9d98bbddf8f059d3d311e8bf9d6963aa560ce5c9"}},
   0},
  {<<"jsx">>,
   {git,"git://github.com/talentdeficit/jsx.git",
