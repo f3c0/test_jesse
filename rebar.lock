@@ -1,0 +1,12 @@
+[{<<"jesse">>,
+  {git,"https://github.com/f3c0/jesse.git",
+       {ref,"56d41d9c174b452d736272beca08933d28f19cea"}},
+  0},
+ {<<"jsx">>,
+  {git,"git://github.com/talentdeficit/jsx.git",
+       {ref,"fc2a001073f2300ba38427c23e83d5673c020542"}},
+  1},
+ {<<"rfc3339">>,
+  {git,"git://github.com/andreineculau/rfc3339.git",
+       {ref,"dcc77d66430490620677de8140a3415dfbd3fa61"}},
+  1}].
