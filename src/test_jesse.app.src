@@ -5,7 +5,8 @@
   {mod, { test_jesse_app, []}},
   {applications,
    [kernel,
-    stdlib
+    stdlib,
+    jesse
    ]},
   {env,[]},
   {modules, []},
